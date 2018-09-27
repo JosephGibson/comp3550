@@ -1,0 +1,27 @@
+>gi|12018276|ref|NP_072127.1| heparanase precursor [Rattus norvegicus]	536
+>gi|27806583|ref|NP_776507.1| heparanase precursor [Bos taurus]	545
+>gi|34538273|gb|AAN41636.1| heparanase [Mus musculus]	535
+>gi|45383786|ref|NP_989498.1| heparanase precursor [Gallus gallus]	523
+>gi|47210457|emb|CAF94326.1| unnamed protein product, partial [Tetraodon nigroviridis]	533
+>gi|81294702|emb|CAJ30017.1| heparanase [Nannospalax galili]	574
+>gi|81294704|emb|CAJ30018.1| heparanase [Nannospalax golani]	574
+>gi|81294706|emb|CAJ30019.1| heparanase [Spalax carmeli]	574
+>gi|81294708|emb|CAJ30020.1| heparanase [Nannospalax judaei]	574
+>gi|94721347|ref|NP_006656.2| heparanase isoform 1 preproprotein [Homo sapiens]	543
+>gi|109074233|ref|XP_001104975.1| PREDICTED: heparanase isoform 1 [Macaca mulatta]	545
+>gi|113681947|ref|NP_001038470.1| heparanase precursor [Danio rerio]	546
+>gi|149701707|ref|XP_001493332.1| PREDICTED: heparanase isoform 1 [Equus caballus]	544
+>gi|187608667|ref|NP_001120267.1| heparanase precursor [Xenopus (Silurana) tropicalis]	531
+>gi|260817639|ref|XP_002603693.1| hypothetical protein BRAFLDRAFT_93100 [Branchiostoma floridae]	731
+>gi|296196121|ref|XP_002745691.1| PREDICTED: heparanase [Callithrix jacchus]	541
+>gi|297673892|ref|XP_002814980.1| PREDICTED: LOW QUALITY PROTEIN: heparanase [Pongo abelii]	543
+>gi|308522767|ref|NP_001139602.2| heparanase precursor [Sus scrofa]	542
+>gi|332233393|ref|XP_003265886.1| PREDICTED: heparanase isoform X1 [Nomascus leucogenys]	543
+>gi|334330825|ref|XP_001376885.2| PREDICTED: heparanase [Monodelphis domestica]	544
+>gi|344284807|ref|XP_003414156.1| PREDICTED: heparanase isoform X1 [Loxodonta africana]	544
+>gi|348532303|ref|XP_003453646.1| PREDICTED: heparanase [Oreochromis niloticus]	542
+>gi|348567328|ref|XP_003469452.1| PREDICTED: heparanase [Cavia porcellus]	526
+>gi|351697257|gb|EHB00176.1| Heparanase [Heterocephalus glaber]	528
+>gi|354499575|ref|XP_003511884.1| PREDICTED: heparanase isoform X1 [Cricetulus griseus]	538
+>gi|637302575|ref|XP_008109213.1| PREDICTED: heparanase [Anolis carolinensis]	534
+>gi|655857401|ref|XP_002717028.2| PREDICTED: heparanase [Oryctolagus cuniculus]	537

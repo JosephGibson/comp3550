@@ -1,0 +1,7 @@
+Princess 999
+Muppet	10
+Unknown	0
+Student	15
+Queen	9999
+Fairy	99999
+

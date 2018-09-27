@@ -1,0 +1,6 @@
+Ana	Princess
+Bert	Muppet
+Carl	Unknown
+Doug	Student
+Elsa	Queen
+Zarina	Fairy
